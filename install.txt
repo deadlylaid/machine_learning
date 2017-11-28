@@ -1,6 +1,7 @@
 numpy
 matplotlib
 ipython
+scipy
 scikit-learn
 pandas
 pillow
