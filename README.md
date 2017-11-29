@@ -12,6 +12,7 @@
 ### 관련 용어
 
 Sample(or Data Point)  = 하나의 객체
+
 Feature = 객체의 속성
 
 ### 주의해야할 사항
